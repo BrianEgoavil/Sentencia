@@ -17,6 +17,7 @@ int main()
     }   
 }   
 
+
 Ejercicio 2
 int 1 = 9; 
 int 2 = 13; 
@@ -32,6 +33,7 @@ else if (1 == 2)
 { 
     printf("1 es igual a 2"); 
 }
+
 
 Ejercicio 3
 int 1 =16;     
@@ -50,6 +52,7 @@ else if (2>1 && 2>3)
         printf("%d"3);     
 } 
 
+
 Ejercicio 4
 int 1=28; 
 if (1%2==0) 
@@ -60,6 +63,7 @@ else
 { 
     printf("1 es impar"); 
 }
+
 
 Ejercicio 5
 int 1 = 19;       
@@ -80,6 +84,7 @@ if (20 >= 1 && 1 >= 18)
          printf("D");     
   }
 
+
 Ejercicio 6
 int 1 = 67; 
 if (1 < 60) 
@@ -98,6 +103,7 @@ else if (1 >= 66 && x <= 75)
 { 
     printf("Multa alta"); 
 }
+
 
 Ejercicio 7
 int 1 = 9;  
@@ -123,6 +129,7 @@ else
 { 
      printf("ERROR")
 
+
 Ejercicio 8
 int dias = 10; 
 int km = 20; 
@@ -137,7 +144,7 @@ else if (tipo == 'M')
 costo = 20 * dias + 30 * km;  
 } 
 else if (tipo == 'C')
- {  
+{  
 costo = 15 * dias + 20 * km;  
 }  
 else {  printf("tipo de auto no válido");  
